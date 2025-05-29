@@ -1,5 +1,3 @@
-# TS_Forecasting_Nakshatra
-TS Forecasting Models
 # ETSformer: Exponential Smoothing Transformers for Time-series Forecasting
 
 <p align="center">
